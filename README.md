@@ -1,5 +1,5 @@
 # M1_Game_Guessing-Game
-![Screenshot (235)](https://user-images.githubusercontent.com/89648206/132439595-0f7f42ea-6186-49d3-9848-116cf3378953.png)
+![pic](https://user-images.githubusercontent.com/75090416/143022777-f216ccde-4acb-422a-a1af-4b0ee7058d98.png)
 ## Folder Structure
 Folder                   | Description
 -------------------------| -----------------------------------------
