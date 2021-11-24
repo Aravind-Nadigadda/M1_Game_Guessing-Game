@@ -14,4 +14,5 @@ Folder                   | Description
 [![Code Quality](https://www.code-inspector.com/project/29893/score/svg)](https://www.code-inspector.com)
 [![Code grade](https://www.code-inspector.com/project/29893/status/svg)](https://www.code-inspector.com)
 [![CI](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml)
+[![C/C++ CI](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml)
 [![Static Code Analysis](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/static.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/static.yml)
