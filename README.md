@@ -11,6 +11,6 @@ Folder                   | Description
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 `7_`Others      | Other files
 
-[![Code Quality](https://api.codiga.io/project/29893/score/svg](https://www.code-inspector.com)
-[![Code grade](https://api.codiga.io/project/29893/status/svg](https://www.code-inspector.com)
+https://api.codiga.io/project/29893/score/svg
+https://api.codiga.io/project/29893/status/svg
 
