@@ -16,4 +16,4 @@ Folder                   | Description
 [![CI](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml)
 [![Static Code Analysis](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/static.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/static.yml)
 [![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions)
- [![UnitTesting](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions)
+ 
