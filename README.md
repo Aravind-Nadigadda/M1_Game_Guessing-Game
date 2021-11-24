@@ -15,5 +15,4 @@ Folder                   | Description
 [![Code grade](https://www.code-inspector.com/project/29893/status/svg)](https://www.code-inspector.com)
 [![CI](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/main.yml)
 [![C/C++ CI](https://github.com/Bamini-Varalaxmi/stepin-Guessing-Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions)
-[Unit Testing - Unity](https://github.com/hamsaveni2016/M1_Previous-Project_Library-Mangment/actions/workflows/unity.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions)
 [![Static Code Analysis](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/static.yml/badge.svg)](https://github.com/Aravind-Nadigadda/M1_Game_Guessing-Game/actions/workflows/static.yml)
